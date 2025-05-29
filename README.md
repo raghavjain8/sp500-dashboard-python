@@ -25,3 +25,6 @@ If the HTML dashboard doesn't load in-browser, clone the repo and open `S&P 500 
 ## 📁 Files Included:
 - `S&P 500 Dashboard.ipynb` – The full notebook with code, output, and chart
 - `S&P 500 Dashboard-4.html` – Exported interactive dashboard (works offline)
+
+Preview Link: https://raghavjain8.github.io/sp500-dashboard-python/
+
